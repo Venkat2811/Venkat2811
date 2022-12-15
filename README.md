@@ -20,10 +20,8 @@
 <h3 align="left">Stats:</h3>
 
 <p><img align="left" src="https://github-readme-stats-c5gq.vercel.app/api/top-langs?username=Venkat2811&hide_title=true&show_icons=true&locale=en&layout=compact&langs_count=10" alt="Venkat2811" /></p>
-
-<p></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-c5gq.vercel.app/api?username=Venkat2811&count_private=true&hide_title=true&show_icons=true&locale=en" alt="Venkat2811" /></p>
+<br />
+<p><img align="left" src="https://github-readme-stats-c5gq.vercel.app/api?username=Venkat2811&count_private=true&hide_title=true&show_icons=true&locale=en" alt="Venkat2811" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Venkat2811&count_private=true" alt="Venkat2811" /></p>
