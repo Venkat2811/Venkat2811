@@ -3,7 +3,7 @@
 # Hi 👋, I'm Venkat
 
 [<img alt="HTML5" width="120px" height="55px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/linkedin.svg" />](https://www.linkedin.com/in/venkat2811/)
-[<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/blogger.svg" />](https://Venkat2811.ai)
+[<img alt="HTML5" width="100px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/blogger.svg" />](https://Venkat.ai)
 
 <br />
 
