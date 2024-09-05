@@ -22,11 +22,5 @@
 <img alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/kafka-icon.svg" />
 <img alt="HTML5" width="50px" height="50px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" />
 
-<br />
-
-# Stats
-
-<p><img align="center" width="600px" height="200px" src="https://github-readme-stats-c5gq.vercel.app/api/top-langs?username=Venkat2811&langs_count=8&hide_title=true&show_icons=true&locale=en&layout=compact&hide=ANTLR,JavaScript,CSS" alt="Venkat2811" /></p>
-
 </div>
 
