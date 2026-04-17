@@ -8,33 +8,36 @@ Built and scaled systems that can handle **5k->250k RPS** w/o breaking a sweat.
 
 Got into model serving and inference, enjoyed solving cold start, intelligent routing and optimizing GPU cluster utilization.  Did a bit of RAG & Agents infra.  Currently ML Infra - training, inference, comms collectives, storage, compiler backends, custom kernels optimizations & researching novel techniques.
 
-> Deep in **agentic-engineering mode**. AI tools have enabled me to touch **end-to-end infra from user facing APIs to tensors to metal**. Always looking to **maximize my learning curve** 📈 .
+> High Agency individual deep in **agentic-engineering mode**. AI tools have enabled me to touch **end-to-end infra from user facing APIs to tensors to metal**. Always looking to **maximize my learning curve** 📈
 
-[ʕ•ᴥ•ʔ venkat.systems](https://venkat-systems.bearblog.dev/blog)
 
+**[ʕ•ᴥ•ʔ venkat.systems](https://venkat-systems.bearblog.dev/blog)**
+
+---
 ### Highlights
 
 - [Key OSS Contributions](https://gist.github.com/Venkat2811/f4225ecbd3cc5a4e13b637eaedf59cc9)
 - [Radar](https://gist.github.com/Venkat2811/56e9c80cf28c86fab8895405e9f41a34)
 - [2025 Startup Attempt](https://gist.github.com/Venkat2811/0ece8e52177d2319e944e754687c6857)
-
+---
 ### Projects
 
 - 🐘 **[YALI](https://github.com/Venkat2811/yali)** - Ultra-low-latency GPU comms collective. Outperforms NVIDIA NCCL P2P by 1.2 - 2.4x.
 - ⏲️ **[Metered Compute](https://github.com/Venkat2811/metered-compute)** - 5 reference architectures for reliably metering sync and async compute.
 - 🔍 **[Inference Assayer](https://github.com/Venkat2811/inference-assayer)** - Compiler driven models <> HWs inference perf analyzing deterministic fast simulator lab.
-
+---
 ### Technologies
 
 <table>
+<tr><td align="right"><b>Languages</b></td><td><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td></tr>
 <tr><td align="right"><b>Inference</b></td><td><img src="https://img.shields.io/badge/vLLM-4B0082?style=flat-square" alt="vLLM" /> <img src="https://img.shields.io/badge/SGLang-FF6B35?style=flat-square" alt="SGLang" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000" alt="HuggingFace" /></td></tr>
 <tr><td align="right"><b>Infra</b></td><td><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm" /> <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/NVIDIA_Dynamo-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA Dynamo" /> <img src="https://img.shields.io/badge/vLLM_AIBrix-4B0082?style=flat-square" alt="vLLM AIBrix" /></td></tr>
-<tr><td align="right"><b>Languages</b></td><td><img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></td></tr>
 <tr><td align="right"><b>Storage</b></td><td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/SlateDB-2F4F4F?style=flat-square" alt="SlateDB" /></td></tr>
 <tr><td align="right"><b>Middleware</b></td><td><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Apache_Iggy-D22128?style=flat-square" alt="Apache Iggy" /> <img src="https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white" alt="NATS" /> <img src="https://img.shields.io/badge/Redpanda-E03C31?style=flat-square" alt="Redpanda" /> <img src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=zeromq&logoColor=white" alt="ZeroMQ" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /></td></tr>
 <tr><td align="right"><b>Cloud</b></td><td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></td></tr>
 </table>
 
+---
 ## Writings
 
 [![Hashnode](https://img.shields.io/badge/Venkat_._eu-2962FF?logo=hashnode&logoColor=white)](https://venkat.eu)
