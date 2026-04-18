@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://venkat.eu/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1713462634222%2F9f8d2e63-5810-44c3-9c83-f3e32db41b27.png&w=3840&q=75" width="100%" />
+</p>
+
+<p align="center"><strong><em>Mechanical Sympathy is All You Need</em></strong></p>
+
 # Hi 👋, I'm Venkat !
 
 [![Twitter](https://img.shields.io/badge/-@venkat_systems-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/venkat_systems)
