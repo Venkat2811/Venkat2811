@@ -14,7 +14,7 @@ Built and scaled systems that can handle **5k->250k RPS** w/o breaking a sweat.
 
 Got into model serving and inference, enjoyed solving cold start, intelligent routing and optimizing GPU cluster utilization.  Did a bit of RAG & Agents infra.  Currently ML Infra - training, inference, comms collectives, storage, compiler backends, custom kernels optimizations & researching novel techniques.
 
-> High Agency individual deep in **agentic-engineering mode**. AI tools have enabled me to touch **end-to-end infra from user facing APIs to tensors to metal**. Always looking to **maximize my learning curve** 📈
+> High Agency individual deep in **agentic-engineering mode**. AI tools have enabled me to touch **end-to-end infra from user facing APIs & Infra to tensors to metal**. Always looking to **maximize my learning curve** 📈
 
 
 **[ʕ•ᴥ•ʔ venkat.systems](https://venkat-systems.bearblog.dev/blog)**
