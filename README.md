@@ -28,6 +28,7 @@ Got into model serving and inference, enjoyed solving cold start, intelligent ro
 ---
 ### Projects
 
+- ⚡ **[myelon](https://github.com/Venkat2811/myelon)** - Ultra-low-latency, high-throughput multiprocess transport over SHM + mmap. LMAX-Disruptor-style cross-process ring substrate. HFT-grade tail latency: **240 ns P99 ping-pong · 332 M ops/s signal · 92.6 GB/s aggregate broadcast**. Among the fastest open-source IPC libraries.
 - 🐘 **[YALI](https://github.com/Venkat2811/yali)** - Ultra-low-latency GPU comms collective. Outperforms NVIDIA NCCL P2P by 1.2 - 2.4x.
 - ⏲️ **[Metered Compute](https://github.com/Venkat2811/metered-compute)** - 5 reference architectures for reliably metering sync and async compute.
 - 🔍 **[Inference Assayer](https://github.com/Venkat2811/inference-assayer)** - Compiler driven models <> HWs inference perf analyzing deterministic fast simulator lab.
