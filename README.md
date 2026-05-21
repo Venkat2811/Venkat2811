@@ -61,3 +61,9 @@ Inspired by
 - [![GitHub](https://img.shields.io/badge/-steipete-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/steipete)
 - [![GitHub](https://img.shields.io/badge/-aniketmaurya-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aniketmaurya)
 - [![GitHub](https://img.shields.io/badge/-Garry_Tan's_gstack-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/garrytan/gstack)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Venkat2811&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views">
+</p>
