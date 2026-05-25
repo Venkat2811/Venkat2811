@@ -28,6 +28,7 @@ Got into model serving and inference, enjoyed solving cold start, intelligent ro
 ---
 ### Projects
 
+- 🐨 **[WombatKV](https://github.com/Venkat2811/wombatkv)** - An object-storage-native KV cache system for Inference.
 - ⚡ **[myelon](https://github.com/Venkat2811/myelon)** - HFT-grade LMAX-Disruptor multiprocess IPC over SHM & mmap. **240 ns P99 · 5.58 M ops/s · 92.6 GB/s**.
 - 🐘 **[YALI](https://github.com/Venkat2811/yali)** - Ultra-low-latency GPU comms collective. Outperforms NVIDIA NCCL P2P by 1.2 - 2.4x.
 - ⏲️ **[Metered Compute](https://github.com/Venkat2811/metered-compute)** - 5 reference architectures for reliably metering sync and async compute.
