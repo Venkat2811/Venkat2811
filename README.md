@@ -28,7 +28,7 @@ Got into model serving and inference, enjoyed solving cold start, intelligent ro
 ---
 ### Projects
 
-- 🐨 **[WombatKV](https://github.com/Venkat2811/wombatkv)** - KV blocks survive restarts, save prefill flops - Object-storage-native KV cache for Inference.
+- 🐨 **[WombatKV](https://github.com/Venkat2811/wombatkv)** - KV blocks survive restarts, save prefill flops - Object-storage-native KV cache for Inference & RL.
 - ⚡ **[myelon](https://github.com/Venkat2811/myelon)** - HFT-grade LMAX-Disruptor multiprocess IPC over SHM & mmap. **240 ns P99 · 5.58 M ops/s · 92.6 GB/s**.
 - 🐘 **[YALI](https://github.com/Venkat2811/yali)** - Ultra-low-latency GPU comms collective. Outperforms NVIDIA NCCL P2P by 1.2 - 2.4x.
 - 🪢 **[GPU Kernel Batcher](https://github.com/Venkat2811/gpu-kernel-batcher)** - Batching identical GEMMs into one cuBLAS call - [90%+ fewer launches, 22% faster FP16 workloads](https://x.com/venkat_systems/status/1955993702079324315)
