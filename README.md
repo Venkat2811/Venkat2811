@@ -24,7 +24,7 @@ Got into model serving and inference, enjoyed solving cold start, intelligent ro
 
 - [Key OSS Contributions](https://gist.github.com/Venkat2811/f4225ecbd3cc5a4e13b637eaedf59cc9)
 - [Radar](https://gist.github.com/Venkat2811/56e9c80cf28c86fab8895405e9f41a34)
-- [2025 Startup Attempt](https://gist.github.com/Venkat2811/0ece8e52177d2319e944e754687c6857)
+- [2025-2026 Startup Attempt](https://gist.github.com/Venkat2811/0ece8e52177d2319e944e754687c6857)
 ---
 ### Projects
 
